@@ -1,2 +1,2 @@
 # Job-Recommendation-System
-Job Recommendation System
+Content Based - Job Recommendation System
